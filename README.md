@@ -11,7 +11,7 @@ Download the miner using the link below.
 
 [Download EWBF v0.6 CUDA 9.1 Windows Version](https://github.com/zhashpro/EWBF-v0.6/raw/main/EWBF%20CUDA%209.1%20Equihash%20Miner%20v0.6.rar)
 
-Edit _ZHash-Start.bat_ file with your favorite text editor.
+Extract the archive and edit _ZHash-Start.bat_ file with your favorite text editor.
 
 1. Set the --server _URL_ and --port _number_
 2. Change _yourWallet_ to your wallet address
