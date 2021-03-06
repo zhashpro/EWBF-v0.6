@@ -9,7 +9,7 @@ Download the miner using the link below.
 
 [Download EWBF v0.6 CUDA 8 Windows Version](https://github.com/zhashpro/EWBF-v0.6/raw/main/EWBF%20CUDA%208%20Equihash%20Miner%20v0.6.rar)
 
-[Download EWBF v0.6 CUDA 9.1 Windows Version](https://github.com/zhashpro/ewbf-v0.6)
+[Download EWBF v0.6 CUDA 9.1 Windows Version](https://github.com/zhashpro/EWBF-v0.6/raw/main/EWBF%20CUDA%209.1%20Equihash%20Miner%20v0.6.rar)
 
 Edit _ZHash-Start.bat_ file with your favorite text editor.
 
