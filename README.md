@@ -17,7 +17,9 @@ Edit _ZHash-Start.bat_ file with your favorite text editor.
 2. Change _yourWallet_ to your wallet address
 3. Save and exit
 
-**Example**: miner.exe --algo 144_5 --pers BgoldPoW --server _eu1.zhash.pro_ --port _5058_ --user _yourwallet_.workername --pass x
+**Example for Bitcoin Gold**: miner.exe --algo 144_5 --pers BgoldPoW --server _eu1.zhash.pro_ --port _5058_ --user _yourwallet_.workername --pass x
+
+**Example for Tent**: miner.exe --algo 144_5 --pers sngemPoW --server _eu1.zhash.pro_ --port _1058_ --user _yourwallet_.workername --pass x
 
 Run EWBF Miner by double clicking _ZHash-Start.bat_
 
