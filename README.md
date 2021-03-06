@@ -7,7 +7,9 @@ Download the miner using the link below.
 
 **NOTE**: Chrome browser may block the download. Use Mozilla Firefox or another browser.
 
-[Download EWBF v0.6 Windows Version](https://github.com/zhashpro/ewbf-v0.6)
+[Download EWBF v0.6 CUDA 8 Windows Version](https://github.com/zhashpro/ewbf-v0.6)
+
+[Download EWBF v0.6 CUDA 9.1 Windows Version](https://github.com/zhashpro/ewbf-v0.6)
 
 Edit _ZHash-Start.bat_ file with your favorite text editor.
 
